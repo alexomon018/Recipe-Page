@@ -8,7 +8,7 @@
 
 <div align="center">
   <h3>
-    <a href="https://silly-lewin-72a419.netlify.app/">
+    <a href="https://zealous-hermann-10c911.netlify.app/">
       Demo
     </a>
     <span> | </span>
@@ -16,7 +16,7 @@
       Solution
     </a>
     <span> | </span>
-    <a href="https://devchallenges.io/challenges/Jymh2b2FyebRTUljkNcb">
+    <a href="https://devchallenges.io/challenges/OEKdUZ6xs0h99C38XVht">
       Challenge
     </a>
   </h3>
